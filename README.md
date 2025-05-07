@@ -1,4 +1,4 @@
-# Codigo Fonte Do Trabalho de Conclusão Curso
+# Código Fonte Do Trabalho de Conclusão Curso
 
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
