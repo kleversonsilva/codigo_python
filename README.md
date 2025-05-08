@@ -1,5 +1,7 @@
-# Código Fonte Do Trabalho de Conclusão de Curso.
-# Detector de Aflatoxinas Pelo Metodo da Fluorescencia Amarelo-esverdeada Brrilhante
+# Código Fonte Do Meu Trabalho de Conclusão de Curso.
+# MECANISMO DE TRIAGEM PARA ANÁLISE DE GRÃOS CONTAMINADOS COM AFLATOXINAS POR CONTAGEM DA FLUORESCÊNCIA AMARELO-ESVERDEADA BRILHANTE (BGYF- Bright Greenish Yellow Fluorescence)
+
+Link de acesso ao texto:
 https://drive.google.com/file/d/12M2EeZcP0-c5xQUxbmIdcsQOEK25pBKh/view?usp=sharing
 
 
